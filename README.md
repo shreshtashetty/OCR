@@ -1,6 +1,6 @@
 # OCR
 Implementation of the paper: An End-to-End Trainable Neural Network for Image-based Sequence
-Recognition and Its Application to Scene Text Recognition by B Shi. https://arxiv.org/pdf/1507.05717.pdf
+Recognition and Its Application to Scene Text Recognition by B Shi et al. https://arxiv.org/pdf/1507.05717.pdf
 
 Dataset used: IAM Dataset. It can be found here: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
 
