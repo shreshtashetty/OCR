@@ -1,4 +1,4 @@
-# OCR
+# Optical Character Recognition (OCR)
 Implementation of the paper: An End-to-End Trainable Neural Network for Image-based Sequence
 Recognition and Its Application to Scene Text Recognition by B Shi et al. https://arxiv.org/pdf/1507.05717.pdf
 
