@@ -7,7 +7,7 @@ This repo is an implementation of the paper: An End-to-End Trainable Neural Netw
 Recognition and Its Application to Scene Text Recognition by B Shi et al. https://arxiv.org/pdf/1507.05717.pdf
 ##
 ## Dataset
-The IAM Dataset is used for the purposes of out task. It can be found here: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
+The IAM Dataset is used for the purposes of our task. It can be found here: https://fki.tic.heia-fr.ch/databases/iam-handwriting-database
 
 The dataset used is a lot smaller than that used in the paper, therefore a model as deep as the one mentioned in the paper has not been created.
 ##
